@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				47,
+				203
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mugman left"
+		},
+		{
+			"offsets": [
+				-82,
+				212
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mugman down"
+		},
+		{
+			"offsets": [
+				-156,
+				155
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mugman up"
+		},
+		{
+			"offsets": [
+				-289,
+				246
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mugman right"
+		},
+		{
+			"offsets": [
+				-144,
+				231
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mugman idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mugman",
+	"position": [
+		160,
+		310
+	],
+	"healthicon": "mugman",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		155,
+		255
+	],
+	"camera_position": [
+		180,
+		-270
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

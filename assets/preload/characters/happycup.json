@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				793,
+				219
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Happy Cuphead left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				994,
+				220
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Happy Cuphead down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				534,
+				705
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Happy Cuphead Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				538,
+				222
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Happy Cuphead right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				816,
+				221
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Happy Cuphead idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/happy cup",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cup",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-320,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

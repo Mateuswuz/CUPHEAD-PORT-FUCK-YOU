@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				636,
+				261
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "Cuphead idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				843,
+				199
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "Cuphead left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				638,
+				130
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "Cuphead down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				660,
+				395
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "Cuphead up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				522,
+				198
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "Cuphead right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cuphead lololo",
+	"position": [
+		400,
+		360
+	],
+	"healthicon": "cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-740,
+		-400
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}
