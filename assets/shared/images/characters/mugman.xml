@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mugman.png">
+<SubTexture name="Mugman down0000" x="0" y="0" width="448" height="616" frameX="-23" frameY="-40" frameWidth="479" frameHeight="616" />
+<SubTexture name="Mugman down0001" x="448" y="0" width="427" height="616" frameX="-36" frameY="-21" frameWidth="479" frameHeight="616" />
+<SubTexture name="Mugman down0002" x="875" y="0" width="430" height="616" frameX="-39" frameY="-14" frameWidth="479" frameHeight="616" />
+<SubTexture name="Mugman down0003" x="0" y="616" width="430" height="616" frameX="-40" frameY="-13" frameWidth="479" frameHeight="616" />
+<SubTexture name="Mugman idle0000" x="1739" y="612" width="430" height="606" frameX="0" frameY="-12" frameWidth="465" frameHeight="620" />
+<SubTexture name="Mugman idle0001" x="0" y="1232" width="436" height="606" frameX="-14" frameY="-13" frameWidth="465" frameHeight="620" />
+<SubTexture name="Mugman idle0002" x="436" y="1232" width="438" height="606" frameX="-20" frameY="-13" frameWidth="465" frameHeight="620" />
+<SubTexture name="Mugman left0000" x="874" y="1232" width="476" height="583" frameX="0" frameY="-32" frameWidth="503" frameHeight="592" />
+<SubTexture name="Mugman left0001" x="1350" y="1232" width="452" height="583" frameX="-37" frameY="-10" frameWidth="503" frameHeight="592" />
+<SubTexture name="Mugman left0002" x="2174" y="0" width="445" height="583" frameX="-48" frameY="-7" frameWidth="503" frameHeight="592" />
+<SubTexture name="Mugman left0003" x="2174" y="583" width="444" height="582" frameX="-49" frameY="-7" frameWidth="503" frameHeight="592" />
+<SubTexture name="Mugman right0000" x="430" y="616" width="454" height="612" frameX="-30" frameY="-30" frameWidth="487" frameHeight="631" />
+<SubTexture name="Mugman right0001" x="1305" y="0" width="434" height="612" frameX="-13" frameY="-22" frameWidth="487" frameHeight="631" />
+<SubTexture name="Mugman right0002" x="1305" y="612" width="434" height="612" frameX="-3" frameY="-19" frameWidth="487" frameHeight="631" />
+<SubTexture name="Mugman right0003" x="1739" y="0" width="435" height="612" frameX="0" frameY="-18" frameWidth="487" frameHeight="631" />
+<SubTexture name="Mugman up0000" x="0" y="1838" width="497" height="551" frameX="-1" frameY="0" frameWidth="507" frameHeight="551" />
+<SubTexture name="Mugman up0001" x="497" y="1838" width="486" height="551" frameX="0" frameY="-2" frameWidth="507" frameHeight="551" />
+<SubTexture name="Mugman up0002" x="983" y="1838" width="482" height="551" frameX="-1" frameY="-2" frameWidth="507" frameHeight="551" />
+<SubTexture name="Mugman up0003" x="1465" y="1838" width="483" height="551" frameX="0" frameY="-2" frameWidth="507" frameHeight="551" />
+</TextureAtlas>
